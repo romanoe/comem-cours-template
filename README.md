@@ -1,6 +1,6 @@
 # [Nom du cours] ([Sigle])
 
-**Licence : CC BY 4.0**
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 [Description courte du cours] de la filière Ingénierie des Médias, HEIG-VD.
 
@@ -90,3 +90,7 @@ Ce document est mis à jour au fur et à mesure du semestre avec les information
 Ce matériel est mis à disposition sous licence [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
 
 Vous êtes libre de partager et adapter ce contenu, à condition de créditer l'autrice.
+
+---
+
+*Slides construits avec [comem-cours-template](https://github.com/romanoe/comem-cours-template) · [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)*

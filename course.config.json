@@ -6,6 +6,7 @@
   "author": "Noemi Romano",
   "email": "noemi.romano@heig-vd.ch",
   "github": "https://github.com/MediaComem/comem-mon-cours",
+  "license": "CC BY 4.0",
   "decks": [
     {
       "src": "cours/01-template.md",
