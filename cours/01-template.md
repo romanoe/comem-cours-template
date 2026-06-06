@@ -22,6 +22,10 @@ layout: section
 # Layouts
 
 ---
+references:
+  - "Author, <em>Title</em> (Year)"
+  - "<a href='https://example.com'>source</a>"
+---
 
 # Default
 
@@ -31,7 +35,39 @@ Short, active sentences. One idea per bullet.
 - Second point · with **emphasis**
 - Third point
 
-<div class="footer">Source · Author, <em>Title</em> (Year)</div>
+---
+layout: two-cols
+---
+
+::title::
+# Two cols
+
+::left::
+
+Left column.
+
+::right::
+
+Right column.
+
+---
+layout: two-cols-bottom
+---
+
+::title::
+# Two cols bottom
+
+::left::
+
+Left column.
+
+::right::
+
+Right column.
+
+::bottom::
+
+Full-width zone below both columns.
 
 ---
 layout: image-right
@@ -170,7 +206,7 @@ npm install @iconify-json/pixelarticons
 
 ::right::
 
-<div class="flex flex-wrap gap-4 items-center text-4xl">
+<div class="flex flex-wrap gap-4 items-center text-4xl primary">
   <pixelarticons-star />
   <pixelarticons-heart />
   <pixelarticons-home />
@@ -188,4 +224,6 @@ npm install @iconify-json/pixelarticons
   <pixelarticons-menu />
   <pixelarticons-file />
 </div>
+
+
 
