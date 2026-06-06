@@ -1,0 +1,4 @@
+node_modules
+dist
+.build-cache.json
+cours/node_modules

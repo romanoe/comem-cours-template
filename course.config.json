@@ -1,0 +1,16 @@
+{
+  "name": "Nom du cours",
+  "slug": "comem-mon-cours",
+  "subtitle": "HEIG-VD / COMEM+",
+  "year": 2026,
+  "author": "Noemi Romano",
+  "email": "noemi.romano@heig-vd.ch",
+  "github": "https://github.com/MediaComem/comem-mon-cours",
+  "decks": [
+    {
+      "src": "cours/01-template.md",
+      "out": "01-template",
+      "title": "Introduction"
+    }
+  ]
+}
